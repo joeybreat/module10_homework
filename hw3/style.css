@@ -1,0 +1,32 @@
+.chatDiv{
+    border: 3px solid aquamarine;
+    display: block;
+    width: 600px;
+    height: 600px;
+}
+
+.messages{
+    border: 3px solid red;
+    height: 500px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+button{
+    height: 20x;
+    margin-left: 15px;
+}
+
+.send{
+    display: flex;
+    justify-content: center;
+}
+
+.right{
+    text-align: right;
+}
+
+.left{
+    text-align: left;
+}
